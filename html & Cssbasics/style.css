@@ -1,0 +1,73 @@
+/*body {
+    background-color: #ddd;
+}
+
+nav {
+    background-color: rgb(51, 51, 51);
+}
+
+.hero-image { 
+    width: 100%;
+}
+
+li:first-child {
+    background-color: green;
+}
+
+
+exersis2
+
+
+#container {
+    display: inline-block;
+    background-color: #ddd; 
+    box-shadow: 5px 5px 5px black;
+}
+
+#container:hover {
+    background-color: yellow;
+}
+
+.button {
+    background-color: #04AA6D;
+    border-color: green;
+}
+
+span {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+
+#first {
+    background-color: green;
+}
+
+#second {
+    background-color: red;
+} **/
+
+/* ---------------------------------------------------- */
+
+#parent{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+}
+
+.child {
+    width: 100px;
+    height: 100px;
+}
+
+#child1 {
+    position: relative;
+    background-color: blue;
+    position: absolute;
+    right: 0;
+}
+
+#child2 {
+    background-color: green;
+}
