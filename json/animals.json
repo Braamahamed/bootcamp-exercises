@@ -1,0 +1,17 @@
+{
+    "name": "Gray Wolf",
+    "weight": {
+      "kilograms": 45,
+      "tons": 0.045
+    },
+    "habitat": ["Forests", "Tundras"],
+    "endangered": "least concern",
+    "diet": [
+      { "food": "Deer", "percentage": 40 },
+      { "food": "Elk", "percentage": 30 },
+      { "food": "Rabbits", "percentage": 30 }
+    ],
+    "predators": ["None, apex predator"],
+    "deliciousness": 2
+  }
+  
